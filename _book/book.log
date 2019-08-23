@@ -1,0 +1,18 @@
+nohup: ignoring input
+
+... Uhoh. Got error listen EADDRINUSE: address already in use :::35729 ...
+Error: listen EADDRINUSE: address already in use :::35729
+    at Server.setupListenHandle [as _listen2] (net.js:1258:14)
+    at listenInCluster (net.js:1306:12)
+    at Server.listen (net.js:1394:7)
+    at Server.listen (/root/.gitbook/versions/3.2.3/node_modules/tiny-lr/lib/server.js:164:15)
+    at Promise.apply (/root/.gitbook/versions/3.2.3/node_modules/q/q.js:1165:26)
+    at Promise.promise.promiseDispatch (/root/.gitbook/versions/3.2.3/node_modules/q/q.js:788:41)
+    at /root/.gitbook/versions/3.2.3/node_modules/q/q.js:1391:14
+    at runSingle (/root/.gitbook/versions/3.2.3/node_modules/q/q.js:137:13)
+    at flush (/root/.gitbook/versions/3.2.3/node_modules/q/q.js:125:13)
+    at internalTickCallback (internal/process/next_tick.js:70:11)
+
+You already have a server listening on 35729
+You should stop it and try again.
+

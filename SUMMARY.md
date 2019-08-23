@@ -1,6 +1,3 @@
-# Table of contents
-
-
 # Summary
 
 * [厨卫百分百3.0操作文档](README.md)
@@ -17,77 +14,75 @@
         * [(3)百科文章作用](shop/affect.md)
 * [商品](goods/goods.md)
     * [一、商品列表](goods/list.md)
-    	* [(1)商品分配门店](goods/10001.md)
+        * [(1)商品分配门店](goods/10001.md)
         * [(2)商品二维码](goods/10002.md)
         * [(3)编辑商品](goods/10003.md)
     * [二、认领商品](goods/distribute.md)
-    	* [(1)编辑商品](goods/10004.md)
+        * [(1)编辑商品](goods/10004.md)
         * [(2)商品详情](goods/10005.md)
         * [(3)商品属性参数](goods/10006.md)
     * [三、商品分类](goods/group.md)
-    	* [(1)新增分类](goods/10007.md)
+        * [(1)新增分类](goods/10007.md)
         * [(2)修改分类](goods/10008.md)
         * [(3)删除分类](goods/10009.md)
         * [(4)设置分类](goods/10010.md)
     * [四、赠品管理](goods/gift.md)
-    	* [(1)赠品简介](goods/10011.md)
+        * [(1)赠品简介](goods/10011.md)
         * [(2)创建赠品](goods/10012.md)
         * [(3)修改赠品](goods/10013.md)
     * [五、标签管理](goods/tag.md)
-    	* [(1)新增标签](goods/10014.md)
+        * [(1)新增标签](goods/10014.md)
         * [(2)绑定标签](goods/10015.md)
     * [六、单位管理](goods/unit.md)
-    	* [(1)创建单位](goods/10016.md)
+        * [(1)创建单位](goods/10016.md)
         * [(2)创建辅助计量单位](goods/10017.md)
         * [(3)修改单位](goods/10018.md)
     * [七、单品管理](goods/sku.md)
     * [八、经营类目](goods/category.md)
-[（1）简介](10019.md)
-
-[（2）创建辅助计量单位](10020.md)
-    	* [(1)简介](goods/10019.md)
-    	* [(2)设置经营类目](goods/10020.md)
+        * [(1)简介](goods/10019.md)
+        * [(2)设置经营类目](goods/10020.md)
 * [门店商品](store_goods/goods.md)
     * [一、商品评论](store_goods/comment.md)
-    	* [(1)查看所有评论](store_goods/10001.md)
+        * [(1)查看所有评论](store_goods/10001.md)
         * [(2)用户评论流程](store_goods/10002.md)
     * [二、商品列表](store_goods/list.md)
-    	* [(1)商品分配](store_goods/10003.md)
+        * [(1)商品分配](store_goods/10003.md)
         * [(2)查询商品](store_goods/10004.md)
 * [库存](stock/stock.md)
     * [一、创建仓库](stock/create_stock.md)
     * [二、创建供应商](stock/create_supplier.md)
     * [三、创建物流信息](stock/create_logistics.md)
     * [四、采购管理](stock/lispurchase_manange.md)
-    	* [(1)商品分配](stock/10001.md)
-        * [(2)查询商品](stock/10002.md)
-        * [(3)查询商品](stock/10003.md)
+        * [(1)创建采购单](stock/10001.md)
+        * [(2)审核采购单](stock/10002.md)
+        * [(3)作废采购单](stock/10003.md)
     * [五、入库管理](stock/instorage_manage.md)
-    	* [(1)商品分配](stock/10004.md)
-        * [(2)查询商品](stock/10005.md)
-        * [(3)查询商品](stock/10006.md)
+        * [(1)采购入库单](stock/10004.md)
+        * [(2)其他入库单](stock/10005.md)
+        * [(3)审核入库单](stock/10006.md)
+            * [(4)作废入库单](stock/10014.md)
     * [六、出库管理](stock/outstorage_manage.md)
-    	* [(1)商品分配](stock/10007.md)
-        * [(2)查询商品](stock/10008.md)
-        * [(3)查询商品](stock/10009.md)
+        * [(1)创建出库单](stock/10007.md)
+        * [(2)审核出库单](stock/10008.md)
+        * [(3)作废出库单](stock/10009.md)
     * [七、调拨管理](stock/tansfer_manage.md)
-    	* [(1)商品分配](stock/10010.md)
-        * [(2)查询商品](stock/10011.md)
-        * [(3)查询商品](stock/10012.md)        
-        * [(4)查询商品](stock/10013.md) 
+        * [(1)创建调拨单](stock/10010.md)
+        * [(2)审核调拨单](stock/10011.md)
+        * [(3)作废调拨单](stock/10012.md)
+        * [(4)编辑出库单及入库单](stock/10013.md)
     * [八、库存查询](stock/storage_inquiry.md)
 * [门店](store/store.md)
     * [一、创建门店流程](store/create_store.md)
-    	* [(1)功能介绍](store/10001.md)
+        * [(1)功能介绍](store/10001.md)
         * [(2)操作流程](store/10002.md)
     * [二、填写门店信息](store/describe_store.md)
-    	* [(1)部门名称](store/10003.md)
+        * [(1)部门名称](store/10003.md)
         * [(2)部门实景](store/10004.md)
         * [(3)部门类型及部门状态](store/10005.md)
-    	* [(4)部门服务](store/10006.md)
+        * [(4)部门服务](store/10006.md)
         * [(5)营业时间及部门排序](store/10007.md)
         * [(6)所在地区及详细地址](store/10008.md)
-    	* [(7)其余信息](store/10009.md)
+        * [(7)其余信息](store/10009.md)
     * [三、关闭门店](store/close_store.md)
 * [门店管理](store_manage/store.md)
     * [一、门店列表](store_manage/store_list.md)
@@ -102,14 +97,14 @@
         * [(5)新增门店标签](store_manage/10007.md)
         * [(6)门店打标签](store_manage/10008.md)
         * [(7)修改标签](store_manage/10009.md)
-* [导购管理](staff_manage/store.md)
-    * [一、导购管理](staff_manage/10001.md)
-    * [二、销售管理](staff_manage/10002.md)
-    * [三、导购客户](staff_manage/10003.md)
-        * [(1)粉丝信息](staff_manage/10004.md)
-        * [(2)粉丝迁移](staff_manage/10005.md)
-        * [(3)打标签(粉丝分组)](staff_manage/10006.md)
-    * [四、吸粉统计](staff_manage/10007.md)
+* [导购管理](guide_manage/store.md)
+    * [一、导购管理](guide_manage/10001.md)
+    * [二、销售管理](guide_manage/10002.md)
+    * [三、导购客户](guide_manage/10003.md)
+        * [(1)粉丝信息](guide_manage/10004.md)
+        * [(2)粉丝迁移](guide_manage/10005.md)
+        * [(3)打标签(粉丝分组)](guide_manage/10006.md)
+    * [四、吸粉统计](guide_manage/10007.md)
 * [订单](order/order.md)
     * [一、全部订单](order/10001.md)
     * [二、审核订单](order/10002.md)
@@ -131,12 +126,12 @@
         * [(4)会员卡的使用](privilege_manager/10004.md)
     * [二、领取记录](privilege_manager/record.md)
     * [三、成长值明细](privilege_manager/score_detail.md)
-    * [四、积分明细](privilege_manager/score_detail.md)   
+    * [四、积分明细](privilege_manager/score_detail.md)
 * [售后](service/service.md)
     * [一、售后监管](service/service_m.md)
     * [二、售后维权](service/service_rights.md)
     * [三、售后回访](service/service_revisit.md)
-    * [四、报装报修](service/install_repair.md)  
+    * [四、报装报修](service/install_repair.md)
 * [店铺营销](shop_market/service.md)
     * [一、套餐](shop_market/suite.md)
         * [(1)套餐管理的简介](shop_market/10001.md)
@@ -151,7 +146,7 @@
         * [(1)创建定金活动](shop_market/10008.md)
         * [(2)定金活动手机页面](shop_market/10009.md)
         * [(3)定金活动使用](shop_market/100010.md)
-    * [四、行业新闻](shop_market/wiki.md) 
+    * [四、行业新闻](shop_market/wiki.md)
         * [(1)创建百科文章](shop_market/10011.md)
         * [(2)设置百科文章](shop_market/10012.md)
         * [(3)百科文章作用](shop_market/10013.md)
@@ -167,16 +162,16 @@
         * [(3)拆礼盒手机页面](interactive_market/10007.md)
         * [(4)拆礼盒的使用](interactive_market/10008.md)
     * [三、微海报](interactive_market/poster.md)
-        * [(1)创建微海报](interactive_market/10008.md)
+        * [(1)创建微海报](interactive_market/10009.md)
         * [(2)使用微海报](interactive_market/10010.md)
         * [(3)微海报手机页面](interactive_market/10011.md)
         * [(4)微海报的使用](interactive_market/10012.md)
         * [(5)微海报的优势](interactive_market/10013.md)
-    * [四、共享门店](interactive_market/store_share.md) 
+    * [四、共享门店](interactive_market/store_share.md)
         * [(1)目的](interactive_market/10014.md)
         * [(2)创建共享门店活动](interactive_market/10015.md)
         * [(3)绑定合伙人](interactive_market/10016.md)
-        * [(4)使用共享门店营销工具](interactive_market/10007.md)
+        * [(4)使用共享门店营销工具](interactive_market/10017.md)
         * [(5)合伙人页面](interactive_market/10018.md)
 * [客户营销](user_market/user_market.md)
     * [一、会员卡](user_market/vipcard.md)
@@ -213,10 +208,10 @@
 * [通用设置](general_set/general_set.md)
     * [一、店铺设置](general_set/shop_set.md)
         * [(1)店铺信息](general_set/10001.md)
-        * [(2)运营人员](wanted_order/10002.md)
+        * [(2)运营人员](general_set/10002.md)
     * [二、导购设置](general_set/staff_set.md)
     * [三、交易设置](general_set/trade_set.md)
-    * [四、支付设置](general_set/pay_set.md) 
+    * [四、支付设置](general_set/pay_set.md)
         * [(1)支付宝扫码配置](general_set/10003.md)
         * [(2)H5支付宝配置](general_set/10004.md)
         * [(3)微信支付配置](general_set/10005.md)
@@ -245,38 +240,6 @@
         * [(3)密码设置](staff_manage/10005.md)
         * [(4)权限设置](staff_manage/10006.md)
         * [(5)修改员工信息](staff_manage/10007.md)
-        * [(6)验证员工信息](staff_manage/10008.md)       
+        * [(6)验证员工信息](staff_manage/10008.md)
     * [三、操作日志](staff_manage/log.md)
-
-{
-    "name": "My Repository",
-    "homepage": "http://packages.dev.com",
-    "repositories": [
-        {"type": "vcs", "url": "http://git.dev.com/maxincai/package1.git"},
-        {"type": "vcs", "url": "http://git.dev.com/maxincai/package1.git"},
-    ],
-    "require": {
-        "maxincai/package1": "*",
-        "maxincai/package2": "*",
-    }
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
