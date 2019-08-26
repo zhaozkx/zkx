@@ -8,10 +8,10 @@
 
 *   点击提交后，等待审核即可
 
-![](https://uploader.shimo.im/f/Xrucj6XgYTgAoV7P.png!thumbnail)
+![](images/check1.jpg)
 
-![](https://uploader.shimo.im/f/QKZaB17KcbcPGocf.png!thumbnail) 
+![](images/check2.jpg) 
 
-![](https://uploader.shimo.im/f/REaSqLUntyIcq93h.png!thumbnail)
+![](images/check3.jpg)
 
-![](https://uploader.shimo.im/f/CWNwX7XTUpkgjaQY.png!thumbnail)
+![](images/check4.jpg)
