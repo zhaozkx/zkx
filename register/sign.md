@@ -5,4 +5,4 @@
 
 *   若此处有问题，可联系落地运营人员
 
-![](https://uploader.shimo.im/f/cfXfG9MoB9sKcjDA.png!thumbnail)
+![](images/sign.jpg)
